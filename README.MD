@@ -4,7 +4,7 @@ This repository contains a set of small projects that I work on from time to tim
 
 ## Projects:
 
-1. **Youtube Random Name Generator**
-2. **Weather App Using OpenWeather API**
+1. **Weather App Using OpenWeather API**
+2. **Youtube Random Name Generator**
 
 Hope you enjoy exploring these small projects!
