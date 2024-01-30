@@ -5,7 +5,6 @@ This repository contains a set of small projects that I work on from time to tim
 ## Projects:
 
 1. **Youtube Random Name Generator**
-2. **Simple Search Engine Using Wikipedia API**
-3. **Weather App Using OpenWeather API**
+2. **Weather App Using OpenWeather API**
 
 Hope you enjoy exploring these small projects!
