@@ -6,5 +6,6 @@ This repository contains a set of small projects that I work on from time to tim
 
 1. **Weather App Using OpenWeather API**
 2. **Youtube Random Name Generator**
+3. **Color Square Based On User's Input**
 
 Hope you enjoy exploring these small projects!
