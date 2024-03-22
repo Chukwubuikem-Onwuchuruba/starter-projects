@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Joke App</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="index.js" defer></script>
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png" />
+    <link rel="manifest" href="site.webmanifest" />
+  </head>
+  <header>
+    <section class="header">
+      <h1>Laugh Out Loud with Chuck Norris Jokes</h1>
+    </section>
+  </header>
+  <nav>
+    <h2>
+      Search for a joke or select a category and then click the search button.
+    </h2>
+    <div class="row">
+      <input type="text" id="search-box" placeholder="Search..." />
+      <div class="dropdown-input">
+        <label for="dropdown" class="col">Choose a category:</label>
+        <select id="dropdown" name="dropdown" class="col">
+          <option value="" disabled selected>Select an option</option>
+          <option value="animal">Animal</option>
+          <option value="career">Career</option>
+          <option value="celebrity">Celebrity</option>
+          <option value="dev">Dev</option>
+          <option value="explicit">Explicit</option>
+          <option value="fashion">Fashion</option>
+          <option value="food">Food</option>
+          <option value="history">History</option>
+          <option value="money">Money</option>
+          <option value="movie">Movie</option>
+          <option value="music">Music</option>
+          <option value="political">Political</option>
+          <option value="religion">Religion</option>
+          <option value="science">Science</option>
+          <option value="sport">Sport</option>
+          <option value="travel">Travel</option>
+        </select>
+      </div>
+      <button type="submit">Click to Search</button>
+    </div>
+  </nav>
+  <body>
+    <div class="row center">
+      <section class="display-card">
+        <h3>You haven't searched for a joke.</h3>
+      </section>
+    </div>
+  </body>
+</html>
