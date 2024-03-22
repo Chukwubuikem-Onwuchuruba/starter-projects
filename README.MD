@@ -5,8 +5,8 @@ This repository contains a set of small projects that I work on from time to tim
 ## Projects:
 
 1. **Weather App Using OpenWeather API**
-2. **Youtube Random Name Generator**
-3. **Color Square Based On User's Input**
-4. **An interactive To-Do List**
+2. **Color Square Based On User's Input**
+3. **An interactive To-Do List**
+4. **A website for Chuck Norris Jokes**
 
 Hope you enjoy exploring these small projects!
