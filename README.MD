@@ -8,5 +8,6 @@ This repository contains a set of small projects that I work on from time to tim
 2. **Color Square Based On User's Input**
 3. **An interactive To-Do List**
 4. **A website for Chuck Norris Jokes**
+5. **A Tic-Tac-Toe Game**
 
 Hope you enjoy exploring these small projects!
